@@ -64,6 +64,8 @@ python main.py
 
 4. Verranno stampati in console i pazienti che hanno saltato l'ultimo appuntamento ma mostrano miglioramenti.
 
+## Diagramma dell'architettura
+Il diagramma dell'architettura è disponibile al link https://excalidraw.com/#json=3TwzNoR9n5GIXdY9wqMZJ,SlednUdWRBp0dPJnv4xq2g
 
 ## Note
 
